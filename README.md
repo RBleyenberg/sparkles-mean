@@ -1,17 +1,17 @@
-# MEAN Stack JWT Authentication in NodeJS API
-MEAN Stack Project inside that we implemented JWT Node JS Authentication Using jsonwebtoken and passport.js.
+# MEAN Stack Login and Logout in Angular 6
+MEAN Stack Project inside that we have designed Login Form and Related Logout feature with angular 6
 
 ###### Before Running this Project
 Install npm packages using 'npm install' command from angular6 and server folder. 
  
  # Step By Step Explanation
  
- Text Article : https://goo.gl/47gn5b <br/>
- Video Tutorial : https://youtu.be/T8qepiTbJi4
+ Text Article : https://goo.gl/DgNR8x <br/>
+ Video Tutorial : https://youtu.be/r0QYP61bCCM
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=T8qepiTbJi4
-" target="_blank"><img src="http://img.youtube.com/vi/T8qepiTbJi4/0.jpg" 
-alt="Video Tutorial for MEAN Stack JWT Authentication in Node JS" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=r0QYP61bCCM
+" target="_blank"><img src="http://img.youtube.com/vi/r0QYP61bCCM/0.jpg" 
+alt="Video Tutorial for MEAN Stack Login and Logout" width="500" height="400" border="10" /></a>
 
 # MEAN Stack Tutorial Hierarchy
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
@@ -19,7 +19,8 @@ alt="Video Tutorial for MEAN Stack JWT Authentication in Node JS" width="500" he
     Node JS Back End ➤ https://goo.gl/CMnPwe  <br/>
     Angualr 6 Front End ➤ https://goo.gl/xivk4x <br/>
 3. JWT Authentication <br/>
-    Node JS Back End  ➤ this one
+    Node JS Back End  ➤ https://goo.gl/7gLzg9<br/>
+    Angular 6 Front End ➤ this one
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |

@@ -24,7 +24,9 @@ app.use((err, req, res, next) => {
         Object.keys(err.errors).forEach(key => valErrors.push(err.errors[key].message));
         res.status(422).send(valErrors)
     }
-    
+    else{
+        console.log(err);
+    }
 });
 
 // start server
